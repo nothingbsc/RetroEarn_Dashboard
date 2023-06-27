@@ -167,7 +167,7 @@ export default function Dashboard() {
                                             <Avatar size="sm" mr={2} src="n64.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">GoldenEye</Heading>
-                                                <Text fontSize="sm" color="gray">Apr 22, 2021 at 2:43pm</Text>
+                                                <Text fontSize="sm" color="gray">June 22, 2023 at 2:43pm</Text>
                                             </Flex>
                                         </Flex>
                                     </Td>
@@ -181,7 +181,7 @@ export default function Dashboard() {
                                             <Avatar size="sm" mr={2} src="gameboy_advance.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">Street Fighter 2</Heading>
-                                                <Text fontSize="sm" color="gray">Apr 13, 2021 at 11:23am</Text>
+                                                <Text fontSize="sm" color="gray">June 13, 2023 at 11:23am</Text>
                                             </Flex>
                                         </Flex>
                                     </Td>
@@ -197,7 +197,7 @@ export default function Dashboard() {
                                             <Avatar size="sm" mr={2} src="nes.png" />
                                             <Flex flexDir="column">
                                                 <Heading size="sm" letterSpacing="tight">Super Mario Bro's</Heading>
-                                                <Text fontSize="sm" color="gray">Apr 24, 2021 at 1:40pm</Text>
+                                                <Text fontSize="sm" color="gray">June 10, 2023 at 1:40pm</Text>
                                             </Flex>
                                         </Flex>
                                     </Td>
